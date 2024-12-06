@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I'm AlvaroSG</a> 👋</h1>
 </div>
-<img src="https://github.com/AlvaroSG-dev/AlvaroSG-dev/blob/main/DiseñoGIT.png" alt="Presentation Banner" style="width:300px; height:auto;">
+<img src="https://github.com/AlvaroSG-dev/AlvaroSG-dev/blob/main/DiseñoGIT.png" alt="Presentation Banner" style="width:1280px; height:auto;">
 <img src="https://img.shields.io/github/followers/AlvaroSG-dev?style=social" alt="GitHub Followers">
 
 
