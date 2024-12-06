@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I'm AlvaroSG</a> 👋</h1>
 </div>
-<img src="">
+<img src="https://github.com/AlvaroSG-dev/AlvaroSG-dev/blob/main/DiseñoGIT.png">
 
 
 ## About me
