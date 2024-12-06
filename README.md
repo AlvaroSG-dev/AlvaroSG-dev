@@ -2,7 +2,8 @@
 <h1 align="center">Hi, I'm AlvaroSG</a> 👋</h1>
 </div>
 <img src="https://github.com/AlvaroSG-dev/AlvaroSG-dev/blob/main/DiseñoGIT.png">
-[![GitHub followers](https://img.shields.io/github/followers/AlvaroSG-dev?style=social)](https://github.com/AlvaroSG-dev)
+<img src="https://img.shields.io/github/followers/AlvaroSG-dev?style=social" alt="GitHub Followers">
+
 
 ## About me
 
