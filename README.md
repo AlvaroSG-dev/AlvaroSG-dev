@@ -1,7 +1,7 @@
 <div align="center">
-<h1 align="center">Hi, I'm >AlvaroSG</a> 👋</h1>
+<h1 align="center">Hi, I'm AlvaroSG</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="[https://i.imgur.com/weNbhGZ.png](https://www.shutterstock.com/image-photo/bamboo-forest-garden-high-density-600nw-2477200453.jpg)">
 
 
 ## About me
