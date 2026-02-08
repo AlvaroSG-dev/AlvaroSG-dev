@@ -50,10 +50,13 @@
 ### 📫 Contacto
 
 <p align="left">
-  <a href="https://linkedin.com/in/TU_USUARIO_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/alvaro-sibon-927088365/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:tu-correo@ejemplo.com">
+  <a href="alvaro.sg.trabajo@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.infojobs.net/candidate/cv/view/index.xhtml" target="_blank">
+  <img src="https://img.shields.io/badge/InfoJobs-FF6340?style=for-the-badge&logo=infojobs&logoColor=white" />
   </a>
 </p>
