@@ -56,7 +56,4 @@
   <a href="alvaro.sg.trabajo@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.infojobs.net/alvaro-sibon-gonzalez" target="_blank">
-  <img src="https://img.shields.io/badge/InfoJobs-FF6340?style=for-the-badge&logo=infojobs&logoColor=white" />
-  </a>
 </p>
