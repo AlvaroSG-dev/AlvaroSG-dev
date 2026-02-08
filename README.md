@@ -56,7 +56,7 @@
   <a href="alvaro.sg.trabajo@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.infojobs.net/candidate/cv/view/index.xhtml" target="_blank">
+  <a href="https://www.infojobs.net/candidate/cv/view/index.xhtml?dgv=7104070035860369759" target="_blank">
   <img src="https://img.shields.io/badge/InfoJobs-FF6340?style=for-the-badge&logo=infojobs&logoColor=white" />
   </a>
 </p>
