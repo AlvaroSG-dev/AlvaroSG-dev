@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/AlvaroSG-dev/AlvaroSG-dev/blob/main/AlvaroSG_banner.svg" alt="AlvaroSG — Web Developer" style="width:100%; max-width:900px; border-radius:12px;">
+  <img src="https://github.com/AlvaroSG-dev/AlvaroSG-dev/blob/main/AlvaroSG_banner_animated.svg" alt="AlvaroSG — Web Developer" style="width:100%; max-width:900px; border-radius:12px;">
 </div>
 
 ---
