@@ -45,6 +45,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlvaroSG-dev&theme=react-dark&hide_border=true&area=true&color=00c2cb&line=7f77dd&point=ffffff" />
+</p>
+
 ---
 
 ### 📫 Contacto
